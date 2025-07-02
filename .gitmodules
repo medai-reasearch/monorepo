@@ -1,0 +1,15 @@
+[submodule "projects/postprocess_projects/cugraph_project"]
+	path = projects/postprocess_projects/cugraph_project
+	url = https://github.com/medai-reasearch/cugraph_project.git
+[submodule "projects/util_projects/pacs_project"]
+	path = projects/util_projects/pacs_project
+	url = https://github.com/medai-reasearch/pacs_project.git
+[submodule "projects/util_projects/dcm_project"]
+	path = projects/util_projects/dcm_project
+	url = https://github.com/medai-reasearch/dcm_project.git
+[submodule "medai_viewer"]
+	path = medai_viewer
+	url = https://github.com/medai-reasearch/medai_viewer.git
+[submodule "projects/framework_projects/vessel_nnunet_project"]
+	path = projects/framework_projects/vessel_nnunet_project
+	url = https://github.com/medai-reasearch/vessel_nnunet_project.git
