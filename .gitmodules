@@ -13,3 +13,6 @@
 [submodule "projects/framework_projects/vessel_nnunet_project"]
 	path = projects/framework_projects/vessel_nnunet_project
 	url = https://github.com/medai-reasearch/vessel_nnunet_project.git
+[submodule "projects/util_projects/gRPC_project"]
+	path = projects/util_projects/gRPC_project
+	url = https://github.com/medai-reasearch/gRPC_project.git
